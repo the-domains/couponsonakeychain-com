@@ -1,0 +1,28 @@
+name: Couponsonakeychain.com
+favicon: null
+layout_spectrum: 0.5747811018954962
+typography_spectrum: 0.3345127434004098
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.25036079878918827
+  lightness: 0.9197051813825965
+  saturation: 0.13354468625038862
+  rhythmicContrast: 0.7928555172402412
+purpose: []
